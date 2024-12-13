@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+#### Design and Development
+![Design and Development](https://drive.google.com/file/d/1rpwi9cJtgqiX8A0310xBH5jHXDGyYpn_/view?usp=sharing)
+
+I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life.
+
+Skills: JAVA / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
 <!--
 **Jumaana-bit/Jumaana-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
