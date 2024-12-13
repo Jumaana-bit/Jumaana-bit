@@ -10,7 +10,7 @@ I am Jumaana and I'm passionate about web programming and mobile app development
 *  📱 Java, Kotlin
   
 ## Examples of work
-<img src = "[https://github.com/Jumaana-bit/Jumaana-bit/blob/main/ezgif-4-80b6bf28a2.mp4](https://github.com/Jumaana-bit/Jumaana-bit/blob/main/flightDemo-ezgif.com-optimize.gif)" width="250">
+<img src = "https://github.com/Jumaana-bit/Jumaana-bit/blob/main/flightDemo-ezgif.com-optimize.gif" width="250">
 
 <!--
 **Jumaana-bit/Jumaana-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
