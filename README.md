@@ -2,7 +2,7 @@
 
 
 #### Design and Development
-![Design and Development](https://drive.google.com/file/d/1rpwi9cJtgqiX8A0310xBH5jHXDGyYpn_/view?usp=sharing)
+![Banner](https://github.com/user-attachments/assets/94da0617-bc8d-4b32-a5f8-f6a954826f89)
 
 I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life.
 
