@@ -9,8 +9,8 @@ I am Jumaana and I'm passionate about web programming and mobile app development
 *  🌐 JS, HTML, PHP, CSS
 *  📱 Java, Kotlin
   
-
-- 🔭 I’m currently working on this page. 
+## Examples of work
+<img src = "https://github.com/Jumaana-bit/Jumaana-bit/blob/main/ezgif-4-80b6bf28a2.mp4" width="250">
 
 <!--
 **Jumaana-bit/Jumaana-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
