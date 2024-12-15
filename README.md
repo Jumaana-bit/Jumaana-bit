@@ -5,7 +5,7 @@
 I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life.
 
 ## Skills and Experience
-*  💻 Java
+*  💻 Java, C, C++, Python
 *  🌐 JS, HTML, PHP, CSS
 *  📱 Java, Kotlin
   
