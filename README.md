@@ -18,6 +18,9 @@ I am Jumaana and I'm passionate about web programming and mobile app development
 ## Examples of work
 <img src = "https://github.com/Jumaana-bit/Jumaana-bit/blob/main/flightDemo-ezgif.com-optimize.gif" width="250">
 
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--
 **Jumaana-bit/Jumaana-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
