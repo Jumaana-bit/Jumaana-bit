@@ -9,9 +9,11 @@ I am Jumaana and I'm passionate about web programming and mobile app development
 *  🌐 JS, HTML, PHP, CSS
 *  📱 Java, Kotlin
 
-<h3 align="left">Find me on:</h3>
+## Find me on:
 <p align="left">
 <a href="https://linkedin.com/in/jumaana-aslam-424b55279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jumaana-aslam-424b55279/" height="30" width="40" /></a>
+<a href="https://jumaana-bit.github.io/" target="blank"> _JA_ ></a>
+  
 </p>
   
 ## Examples of work
