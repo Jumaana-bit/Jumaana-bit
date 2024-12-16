@@ -7,7 +7,7 @@ I am Jumaana and I'm passionate about web programming and mobile app development
 ## Skills and Experience
 *  💻 Java, C, C++, Python
 *  🌐 JS, HTML, PHP, CSS
-*  📱 Java, Flutter/Dart, React/Native, Kotlin
+*  📱 Java, Flutter/Dart, React Native, Kotlin
 
 ## Find me on:
 <p align="left"> 
