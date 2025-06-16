@@ -2,7 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/94da0617-bc8d-4b32-a5f8-f6a954826f89)
 
-I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life.
+I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life. 
+
+You can find my portfolio here: https://portfolio-sigma-nine-47.vercel.app/
 
 ## Skills and Experience
 *  💻 Java, C, C++, Python
