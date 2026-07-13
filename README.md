@@ -4,7 +4,7 @@
 
 I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life. 
 
-You can find my portfolio here: [https://portfolio-sigma-nine-47.vercel.app/](https://portfolio-lab-self.vercel.app/)
+You can find my portfolio here: [https://portfolio-lab-self.vercel.app/](https://portfolio-lab-self.vercel.app/)
 
 ## Skills and Experience
 *  💻 Java, C, C++, Python
