@@ -2,12 +2,12 @@
 
 ![Banner](https://github.com/user-attachments/assets/94da0617-bc8d-4b32-a5f8-f6a954826f89)
 
-I am Jumaana and I'm passionate about web programming and mobile app development. I love creating seamless user experiences and enjoy wireframing UI/UX designs to bring ideas to life. 
+I’m Jumaana, a software engineer focused on machine learning, AI agents, and practical model‑driven applications. My current interests revolve around ML portfolio building, agentic systems, and crafting simple, elegant user experiences that make advanced technology accessible.
 
 You can find my portfolio here: [https://portfolio-lab-self.vercel.app/](https://portfolio-lab-self.vercel.app/)
 
 ## Skills and Experience
-*  💻 Java, C, C++, Python
+*  💻 Python, Java, C, C++
 *  🌐 JS, HTML, PHP, CSS
 *  📱 Java, Flutter/Dart, React Native, Kotlin
 
