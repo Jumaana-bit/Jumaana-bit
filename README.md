@@ -21,7 +21,7 @@ You can find my portfolio here: [https://portfolio-lab-self.vercel.app/](https:/
 <img src = "https://github.com/Jumaana-bit/Jumaana-bit/blob/main/flightDemo-ezgif.com-optimize.gif" width="250">
 
 ## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumaana-bit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaana-bit&layout=compact)
 
 <!--
 **Jumaana-bit/Jumaana-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
