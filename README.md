@@ -20,8 +20,6 @@ You can find my portfolio here: [https://portfolio-lab-self.vercel.app/](https:/
 ## Examples of work
 <img src = "https://github.com/Jumaana-bit/Jumaana-bit/blob/main/flightDemo-ezgif.com-optimize.gif" width="250">
 
-## My Stats
-![Views](https://komarev.com)
 
 <!--
 **Jumaana-bit/Jumaana-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
