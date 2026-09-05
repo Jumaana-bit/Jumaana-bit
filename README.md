@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Banner]([https://github.com/user-attachments/assets/94da0617-bc8d-4b32-a5f8-f6a954826f89](https://github.com/Jumaana-bit/Jumaana-bit/blob/main/LinkedIn%20cover%20-%205%20(1).png?raw=true)
+![Banner]([https://github.com/Jumaana-bit/Jumaana-bit/blob/main/LinkedIn%20cover%20-%205%20(1).png?raw=true])
 
 I’m Jumaana, a software engineer focused on machine learning, AI agents, and practical model‑driven applications. My current interests revolve around ML portfolio building, agentic systems, and crafting simple, elegant user experiences that make advanced technology accessible.
 
